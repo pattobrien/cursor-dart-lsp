@@ -1,2 +1,3 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+This is a demo project that has a diagnostic in the main.dart file, which can be
+used to see if cursor has the ability to see info, warning, and error-level
+diagnostics.
