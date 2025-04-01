@@ -4,7 +4,7 @@ warning-level diagnostics for the Dart language. The behavior is different than
 e.g. Typescript, which is able to get a list of the lint IDs and messages.
 
 A bug has been reported to the cursor team here:
-https://forum.cursor.com/t/agent-cant-see-diagnostics-dart-language/73327
+https://forum.cursor.com/t/agent-cant-access-linter-diagnostics-in-certain-languages/73327
 
 ## Requirements
 
