@@ -3,6 +3,9 @@ used to show that the Cursor IDE does not have the ability to read info and
 warning-level diagnostics for the Dart language. The behavior is different than
 e.g. Typescript, which is able to get a list of the lint IDs and messages.
 
+A bug has been reported to the cursor team here:
+https://forum.cursor.com/t/agent-cant-see-diagnostics-dart-language/73327
+
 ## Requirements
 
 Install Dart VSCode extension and Dart SDK, according to
