@@ -1,6 +1,13 @@
-This is a demo project that has a diagnostic in the main.dart file, which can be
-used to see if cursor has the ability to read info, warning, and error-level
-diagnostics in Dart.
+This is a demo project that has diagnostics in the main.dart file, which can be
+used to show that the Cursor IDE does not have the ability to read info,
+warning, and error-level diagnostics for the Dart language.
+
+## Requirements
+
+Install Dart VSCode extension and Dart SDK, according to
+https://dart.dev/get-dart
+
+## Bug Description
 
 In main.dart you should see 1 error and 1 info-level diagnostic.
 
