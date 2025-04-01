@@ -1,5 +1,9 @@
 library cursor_dart_lsp;
 
-int calculate() {
-  return 6 * 7;
+import 'package:cursor_dart_lsp/utils.dart';
+
+void main() {
+  handleFoo((int _) {
+    print(_);
+  });
 }
